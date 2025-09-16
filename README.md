@@ -28,12 +28,12 @@ Process:
 
 ### **Query the Data for Insights**
 
-All the SQL Queries can be found [here]. (./fmcg-retail-sales-dataset-mysql.sql)
+All the SQL Queries can be found [here](https://github.com/veselaDV/fmcg-retail-sales-dataset/blob/main/fmcg-retail-sales-dataset-mysql.sql)
 
 
 ### **Tableau Public Dashboard**
 
-The Tableau Public Dashboard can be found [here]. (https://public.tableau.com/views/FMCGRetailerDataset/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+The Tableau Public Dashboard can be found [here](https://public.tableau.com/views/FMCGRetailerDataset/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 ## **Key Insights**
