@@ -23,7 +23,7 @@ Data constraints:
 Process: 
 - Making **Pivot tables** in order to generate charts and build the Excel Dashboard. We investigate trends by examining Units Sold per Product, Units Sold per Category, Sales Over Time, and the Impact of promotions on sales.
 
-![Screenshot of the Bike Sales Dashboard](./fmcg-retail-sales-excel-dashboard.jpg)
+![Screenshot of the Excel Dashboard](./fmcg-retail-sales-excel-dashboard.jpg)
 
 
 ### **Query the Data for Insights**
@@ -35,6 +35,7 @@ All the SQL Queries can be found [here](https://github.com/veselaDV/fmcg-retail-
 
 The Tableau Public Dashboard can be found [here](https://public.tableau.com/views/FMCGRetailerDataset/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+![Screenshot of the Table Dashboard](./fmcg-retail-sales-tableau-dashboard.png)
 
 ## **Key Insights**
  
