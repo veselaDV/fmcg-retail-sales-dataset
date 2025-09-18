@@ -1,0 +1,1001 @@
+Date,Store_ID,Product,Category,Units_Sold,Price,Promo
+12/04/2025,1001,Colgate Toothpaste 100ml,Personal Care,35,2.97,Yes
+30/07/2025,1002,Lays Chips 70g,Snacks,31,7.63,No
+09/06/2025,1005,Pepsi 1L,Beverage,39,7.85,Yes
+18/06/2025,1003,Persil Detergent 1kg,Household,33,6.92,Yes
+30/08/2025,1001,Dove Shampoo 250ml,Personal Care,36,7.61,Yes
+22/04/2025,1003,Hell Energy Drink 250ml,Beverage,34,1.58,Yes
+02/06/2025,1002,Dove Shampoo 250ml,Personal Care,23,3.94,Yes
+07/08/2025,1003,Lays Chips 70g,Snacks,27,4.12,No
+15/08/2025,1001,Colgate Toothpaste 100ml,Personal Care,29,5.37,No
+02/08/2025,1002,KitKat 4 Finger,Confectionery,29,3.84,Yes
+30/03/2025,1001,Ariel Pods 20 pack,Household,25,1.88,Yes
+24/05/2025,1005,Doritos 150g,Snacks,35,7.01,No
+27/07/2025,1003,Colgate Toothpaste 100ml,Personal Care,26,5.05,Yes
+16/06/2025,1003,Nescafe Instant 200g,Beverage,25,2.93,Yes
+18/03/2025,1005,Doritos 150g,Snacks,41,1.05,No
+10/03/2025,1001,Nescafe Instant 200g,Beverage,31,1.65,Yes
+26/01/2025,1003,Doritos 150g,Snacks,28,7.5,No
+30/08/2025,1003,Lays Chips 70g,Snacks,27,4.16,No
+17/05/2025,1005,Hell Energy Drink 250ml,Beverage,36,2.92,Yes
+29/05/2025,1001,Fanta 500ml,Beverage,29,6.92,No
+08/03/2025,1002,Dove Shampoo 250ml,Personal Care,41,7.38,Yes
+03/01/2025,1001,Coca-Cola 1L,Beverage,28,6.19,Yes
+05/06/2025,1002,Nescafe Instant 200g,Beverage,24,5.42,No
+02/06/2025,1002,Pepsi 1L,Beverage,23,2.98,No
+24/05/2025,1001,Persil Detergent 1kg,Household,23,1.32,Yes
+22/05/2025,1003,Ariel Pods 20 pack,Household,33,5.11,No
+28/04/2025,1003,Colgate Toothpaste 100ml,Personal Care,31,2.83,Yes
+30/03/2025,1005,Persil Detergent 1kg,Household,24,5.52,Yes
+10/07/2025,1002,Sus Water 1.5L,Beverage,32,1.57,Yes
+20/01/2025,1004,Sus Water 1.5L,Beverage,30,4.54,Yes
+10/02/2025,1002,Dun Bread 500g,Bakery,23,5.08,No
+26/04/2025,1003,Milka Chocolate 100g,Confectionery,28,2.74,No
+17/01/2025,1003,Dun Bread 500g,Bakery,34,2.76,Yes
+14/07/2025,1004,Hell Energy Drink 250ml,Beverage,35,1.12,Yes
+06/07/2025,1003,Colgate Toothpaste 100ml,Personal Care,32,2.43,No
+13/06/2025,1004,Fanta 500ml,Beverage,28,3.27,No
+17/04/2025,1002,Ariel Pods 20 pack,Household,24,2.31,Yes
+31/03/2025,1003,Pepsi 1L,Beverage,32,1.04,No
+06/01/2025,1003,Dun Bread 500g,Bakery,31,1.02,No
+14/01/2025,1002,Coca-Cola 1L,Beverage,36,5.45,Yes
+11/06/2025,1004,Pepsi 1L,Beverage,23,3.73,No
+26/04/2025,1004,KitKat 4 Finger,Confectionery,29,3.22,Yes
+16/08/2025,1004,Dove Shampoo 250ml,Personal Care,33,3.61,Yes
+15/05/2025,1004,Coca-Cola 1L,Beverage,22,1.27,No
+01/09/2025,1003,KitKat 4 Finger,Confectionery,32,3.87,No
+24/02/2025,1005,Hell Energy Drink 250ml,Beverage,23,1.89,No
+11/06/2025,1001,Dun Bread 500g,Bakery,31,2.61,Yes
+18/07/2025,1002,Sus Water 1.5L,Beverage,32,6.48,No
+24/01/2025,1003,Milka Chocolate 100g,Confectionery,25,3.66,No
+30/07/2025,1001,Sus Water 1.5L,Beverage,40,6.85,Yes
+10/08/2025,1005,Dove Shampoo 250ml,Personal Care,36,3.85,No
+01/09/2025,1003,Lays Chips 70g,Snacks,24,4.89,No
+18/02/2025,1005,Dun Bread 500g,Bakery,36,1.33,Yes
+14/03/2025,1005,Dun Bread 500g,Bakery,31,1.11,No
+09/04/2025,1002,KitKat 4 Finger,Confectionery,32,3.91,Yes
+10/05/2025,1005,Nescafe Instant 200g,Beverage,27,6.6,Yes
+04/02/2025,1002,Dove Shampoo 250ml,Personal Care,24,1.44,Yes
+27/02/2025,1004,Pepsi 1L,Beverage,30,1.91,No
+14/08/2025,1004,Fanta 500ml,Beverage,36,5.93,No
+06/07/2025,1004,Sus Water 1.5L,Beverage,34,1.09,Yes
+10/01/2025,1003,Sus Water 1.5L,Beverage,23,3.51,No
+16/06/2025,1005,Hell Energy Drink 250ml,Beverage,38,7.46,No
+19/08/2025,1002,Sus Water 1.5L,Beverage,36,6.52,No
+16/04/2025,1004,Fanta 500ml,Beverage,26,6.07,Yes
+07/01/2025,1005,Fanta 500ml,Beverage,37,3.99,No
+11/06/2025,1004,KitKat 4 Finger,Confectionery,34,5.23,Yes
+22/06/2025,1005,KitKat 4 Finger,Confectionery,35,3.55,No
+25/04/2025,1005,Milka Chocolate 100g,Confectionery,30,4.86,Yes
+20/07/2025,1005,Dove Shampoo 250ml,Personal Care,42,4.75,Yes
+10/06/2025,1005,Fanta 500ml,Beverage,30,7.32,No
+07/01/2025,1001,Dove Shampoo 250ml,Personal Care,31,3.25,Yes
+30/07/2025,1003,Persil Detergent 1kg,Household,31,5.73,No
+11/05/2025,1002,Ariel Pods 20 pack,Household,24,2.9,Yes
+06/01/2025,1001,Persil Detergent 1kg,Household,31,3.08,Yes
+03/06/2025,1002,Lays Chips 70g,Snacks,39,2.99,Yes
+27/06/2025,1002,Fanta 500ml,Beverage,26,2.5,Yes
+16/08/2025,1005,KitKat 4 Finger,Confectionery,29,5.73,Yes
+10/04/2025,1001,Doritos 150g,Snacks,28,1.21,No
+22/05/2025,1001,Persil Detergent 1kg,Household,30,3.53,No
+15/06/2025,1005,Ariel Pods 20 pack,Household,31,6.75,No
+19/07/2025,1004,Nescafe Instant 200g,Beverage,22,1.9,Yes
+07/01/2025,1003,Dove Shampoo 250ml,Personal Care,19,6.37,Yes
+23/08/2025,1002,Milka Chocolate 100g,Confectionery,37,5.98,No
+24/07/2025,1005,Doritos 150g,Snacks,29,2.89,No
+30/07/2025,1003,KitKat 4 Finger,Confectionery,31,5.96,Yes
+12/02/2025,1003,Pepsi 1L,Beverage,24,5.26,No
+05/01/2025,1004,Milka Chocolate 100g,Confectionery,30,1.73,Yes
+17/06/2025,1002,Coca-Cola 1L,Beverage,25,3.99,Yes
+10/01/2025,1001,Pepsi 1L,Beverage,29,7.73,Yes
+22/05/2025,1004,Dun Bread 500g,Bakery,27,3.54,Yes
+19/01/2025,1001,Persil Detergent 1kg,Household,29,7.56,Yes
+07/03/2025,1002,Milka Chocolate 100g,Confectionery,27,2.98,No
+21/03/2025,1003,Fanta 500ml,Beverage,29,4.91,Yes
+28/05/2025,1001,Pepsi 1L,Beverage,19,3.6,No
+13/06/2025,1001,Persil Detergent 1kg,Household,29,2.82,Yes
+18/07/2025,1001,Ariel Pods 20 pack,Household,37,1.74,No
+21/06/2025,1003,Milka Chocolate 100g,Confectionery,24,1.06,No
+02/01/2025,1005,Lays Chips 70g,Snacks,26,6.49,Yes
+25/06/2025,1002,Fanta 500ml,Beverage,32,5.41,No
+02/05/2025,1004,Pepsi 1L,Beverage,30,3.37,No
+05/02/2025,1005,Fanta 500ml,Beverage,34,7.36,Yes
+20/02/2025,1005,Pepsi 1L,Beverage,23,3.64,Yes
+20/06/2025,1001,Lays Chips 70g,Snacks,31,7.36,Yes
+13/03/2025,1004,Persil Detergent 1kg,Household,33,4.89,Yes
+11/02/2025,1001,Pepsi 1L,Beverage,22,7.76,No
+18/07/2025,1001,Pepsi 1L,Beverage,40,6.72,No
+28/05/2025,1003,KitKat 4 Finger,Confectionery,32,6.29,No
+17/05/2025,1001,Hell Energy Drink 250ml,Beverage,41,4.67,Yes
+18/07/2025,1002,Nescafe Instant 200g,Beverage,33,2.01,Yes
+12/08/2025,1001,Dove Shampoo 250ml,Personal Care,29,3.18,No
+25/06/2025,1002,Sus Water 1.5L,Beverage,36,3.62,No
+26/08/2025,1003,Nescafe Instant 200g,Beverage,28,3.09,Yes
+09/01/2025,1005,Hell Energy Drink 250ml,Beverage,36,3.26,No
+14/06/2025,1003,Dove Shampoo 250ml,Personal Care,27,1.65,Yes
+21/08/2025,1004,Colgate Toothpaste 100ml,Personal Care,22,3.25,Yes
+27/02/2025,1005,Persil Detergent 1kg,Household,32,5.2,No
+12/04/2025,1002,Dove Shampoo 250ml,Personal Care,28,4.7,Yes
+26/03/2025,1002,Pepsi 1L,Beverage,28,5.19,No
+01/03/2025,1005,Pepsi 1L,Beverage,28,2.23,No
+19/01/2025,1001,Coca-Cola 1L,Beverage,35,4.59,Yes
+30/01/2025,1001,Coca-Cola 1L,Beverage,28,2.52,No
+01/09/2025,1001,Sus Water 1.5L,Beverage,29,5.03,No
+05/02/2025,1003,Nescafe Instant 200g,Beverage,34,6.76,Yes
+04/01/2025,1001,Dove Shampoo 250ml,Personal Care,31,2.64,Yes
+31/01/2025,1001,Nescafe Instant 200g,Beverage,20,2.74,Yes
+11/08/2025,1001,KitKat 4 Finger,Confectionery,28,7.02,Yes
+05/03/2025,1005,Milka Chocolate 100g,Confectionery,25,2.47,No
+02/04/2025,1005,Pepsi 1L,Beverage,30,4.65,Yes
+09/03/2025,1005,Ariel Pods 20 pack,Household,18,5.39,Yes
+06/01/2025,1005,Dun Bread 500g,Bakery,28,5.59,No
+28/03/2025,1003,Doritos 150g,Snacks,27,6.29,No
+11/05/2025,1004,Ariel Pods 20 pack,Household,30,3.14,No
+16/04/2025,1003,Colgate Toothpaste 100ml,Personal Care,26,3.31,No
+02/03/2025,1004,Dun Bread 500g,Bakery,31,3.59,Yes
+28/02/2025,1001,Dove Shampoo 250ml,Personal Care,27,6.19,Yes
+16/04/2025,1005,Coca-Cola 1L,Beverage,31,6.49,Yes
+10/04/2025,1002,Hell Energy Drink 250ml,Beverage,36,1.87,Yes
+11/07/2025,1001,Hell Energy Drink 250ml,Beverage,33,3.82,No
+05/01/2025,1002,Sus Water 1.5L,Beverage,30,4.08,No
+05/07/2025,1001,Lays Chips 70g,Snacks,28,7.55,Yes
+28/04/2025,1002,Colgate Toothpaste 100ml,Personal Care,30,5.25,Yes
+26/01/2025,1001,Nescafe Instant 200g,Beverage,30,1.81,Yes
+01/01/2025,1003,Sus Water 1.5L,Beverage,22,2.33,No
+25/07/2025,1005,Nescafe Instant 200g,Beverage,33,7.29,Yes
+15/07/2025,1005,Lays Chips 70g,Snacks,43,6.42,Yes
+30/04/2025,1004,Nescafe Instant 200g,Beverage,23,7.94,Yes
+09/02/2025,1004,Persil Detergent 1kg,Household,33,7.86,Yes
+15/07/2025,1003,Coca-Cola 1L,Beverage,32,4.27,No
+26/02/2025,1003,Pepsi 1L,Beverage,29,5.67,No
+14/07/2025,1002,Hell Energy Drink 250ml,Beverage,42,2.11,No
+07/02/2025,1004,Pepsi 1L,Beverage,31,1.67,No
+28/06/2025,1005,Persil Detergent 1kg,Household,36,1.29,Yes
+31/07/2025,1004,Fanta 500ml,Beverage,28,3.37,Yes
+25/07/2025,1005,Pepsi 1L,Beverage,32,4.3,No
+11/08/2025,1005,Nescafe Instant 200g,Beverage,40,4.45,No
+19/01/2025,1003,Coca-Cola 1L,Beverage,34,2.45,Yes
+14/03/2025,1004,Milka Chocolate 100g,Confectionery,27,5.11,Yes
+11/03/2025,1001,Coca-Cola 1L,Beverage,35,3.62,No
+05/01/2025,1005,Pepsi 1L,Beverage,34,2.21,No
+29/03/2025,1001,Persil Detergent 1kg,Household,32,3.18,No
+03/06/2025,1005,Ariel Pods 20 pack,Household,34,1.3,No
+05/03/2025,1004,Milka Chocolate 100g,Confectionery,27,1.32,No
+04/03/2025,1002,Nescafe Instant 200g,Beverage,36,1.97,Yes
+17/02/2025,1003,Persil Detergent 1kg,Household,25,4.34,No
+04/07/2025,1003,Pepsi 1L,Beverage,27,5.67,No
+28/03/2025,1002,Hell Energy Drink 250ml,Beverage,19,2.24,No
+24/03/2025,1005,Pepsi 1L,Beverage,30,7.27,No
+19/04/2025,1005,Nescafe Instant 200g,Beverage,31,5.49,No
+10/05/2025,1002,Dun Bread 500g,Bakery,37,4.95,Yes
+07/01/2025,1001,KitKat 4 Finger,Confectionery,31,2.21,No
+21/08/2025,1001,Coca-Cola 1L,Beverage,28,3.05,No
+20/02/2025,1004,Fanta 500ml,Beverage,20,2.51,Yes
+31/08/2025,1002,Dove Shampoo 250ml,Personal Care,29,6.55,No
+04/01/2025,1003,Persil Detergent 1kg,Household,30,6.88,No
+24/08/2025,1002,Pepsi 1L,Beverage,19,4.55,Yes
+01/07/2025,1004,Coca-Cola 1L,Beverage,30,3.8,Yes
+02/07/2025,1005,Milka Chocolate 100g,Confectionery,26,2.92,Yes
+04/03/2025,1001,Coca-Cola 1L,Beverage,32,4.42,Yes
+01/01/2025,1004,Doritos 150g,Snacks,31,3.84,Yes
+18/05/2025,1002,Pepsi 1L,Beverage,18,3.04,Yes
+04/06/2025,1002,Colgate Toothpaste 100ml,Personal Care,39,3.37,Yes
+16/04/2025,1005,Sus Water 1.5L,Beverage,33,5.07,Yes
+01/01/2025,1002,Nescafe Instant 200g,Beverage,28,7.18,Yes
+19/05/2025,1005,Hell Energy Drink 250ml,Beverage,41,2.03,Yes
+11/03/2025,1003,Lays Chips 70g,Snacks,34,4.19,No
+04/07/2025,1003,Dun Bread 500g,Bakery,35,7.65,Yes
+19/04/2025,1003,Coca-Cola 1L,Beverage,23,6.34,No
+19/07/2025,1003,Lays Chips 70g,Snacks,31,4.73,No
+14/01/2025,1002,Lays Chips 70g,Snacks,28,4.36,Yes
+01/06/2025,1004,Persil Detergent 1kg,Household,29,7.41,Yes
+19/05/2025,1002,Doritos 150g,Snacks,22,3.86,Yes
+05/03/2025,1001,Colgate Toothpaste 100ml,Personal Care,32,4.72,Yes
+12/08/2025,1005,Pepsi 1L,Beverage,29,5.61,Yes
+01/09/2025,1003,Dove Shampoo 250ml,Personal Care,40,1.51,No
+30/05/2025,1001,Coca-Cola 1L,Beverage,28,6.91,No
+27/08/2025,1001,KitKat 4 Finger,Confectionery,27,6.42,Yes
+16/05/2025,1004,Nescafe Instant 200g,Beverage,29,5.16,Yes
+22/07/2025,1004,Doritos 150g,Snacks,22,7.82,No
+26/05/2025,1004,Ariel Pods 20 pack,Household,34,2.02,Yes
+25/02/2025,1002,Lays Chips 70g,Snacks,34,6.44,Yes
+01/02/2025,1004,Milka Chocolate 100g,Confectionery,31,6.8,Yes
+30/06/2025,1001,Dove Shampoo 250ml,Personal Care,29,3.86,Yes
+20/08/2025,1005,Sus Water 1.5L,Beverage,30,5.83,No
+22/07/2025,1003,Colgate Toothpaste 100ml,Personal Care,25,1.77,No
+14/05/2025,1005,Milka Chocolate 100g,Confectionery,30,1.36,Yes
+17/05/2025,1005,Colgate Toothpaste 100ml,Personal Care,20,1.02,No
+25/06/2025,1003,Dove Shampoo 250ml,Personal Care,25,4.74,Yes
+01/07/2025,1001,Dun Bread 500g,Bakery,37,2.08,Yes
+30/01/2025,1005,Persil Detergent 1kg,Household,36,6.72,No
+15/07/2025,1001,KitKat 4 Finger,Confectionery,36,5.55,Yes
+16/03/2025,1001,Nescafe Instant 200g,Beverage,27,6.98,No
+16/02/2025,1003,Pepsi 1L,Beverage,36,7.1,No
+09/02/2025,1005,Hell Energy Drink 250ml,Beverage,32,4.43,No
+27/04/2025,1002,Fanta 500ml,Beverage,29,4.19,No
+07/06/2025,1003,KitKat 4 Finger,Confectionery,27,2.65,No
+08/07/2025,1004,Sus Water 1.5L,Beverage,28,4.03,Yes
+22/08/2025,1004,Colgate Toothpaste 100ml,Personal Care,32,4.86,Yes
+25/05/2025,1003,Dove Shampoo 250ml,Personal Care,30,7.71,No
+31/08/2025,1002,Fanta 500ml,Beverage,30,2.38,No
+09/06/2025,1005,Coca-Cola 1L,Beverage,28,5.92,Yes
+03/03/2025,1001,Dove Shampoo 250ml,Personal Care,24,7.53,Yes
+09/06/2025,1005,Persil Detergent 1kg,Household,27,6.64,Yes
+19/07/2025,1002,Dove Shampoo 250ml,Personal Care,30,3.82,No
+19/03/2025,1004,Sus Water 1.5L,Beverage,27,2.56,Yes
+06/01/2025,1001,Dun Bread 500g,Bakery,28,6.19,Yes
+17/07/2025,1002,Doritos 150g,Snacks,31,2.29,No
+10/01/2025,1002,Milka Chocolate 100g,Confectionery,26,2.86,No
+05/03/2025,1002,Dun Bread 500g,Bakery,31,1.33,No
+27/05/2025,1002,Pepsi 1L,Beverage,32,1.43,Yes
+22/05/2025,1001,Fanta 500ml,Beverage,40,7.17,No
+22/02/2025,1001,Fanta 500ml,Beverage,36,6.68,Yes
+12/07/2025,1002,Colgate Toothpaste 100ml,Personal Care,34,4.79,No
+31/01/2025,1004,Colgate Toothpaste 100ml,Personal Care,30,6.18,Yes
+21/04/2025,1004,Lays Chips 70g,Snacks,31,1.43,Yes
+25/04/2025,1005,Doritos 150g,Snacks,41,1.75,Yes
+04/08/2025,1004,Nescafe Instant 200g,Beverage,36,7.06,No
+29/05/2025,1005,Coca-Cola 1L,Beverage,27,2.3,No
+23/07/2025,1005,Persil Detergent 1kg,Household,27,5.32,Yes
+16/03/2025,1002,Persil Detergent 1kg,Household,34,1.82,No
+06/05/2025,1005,Dun Bread 500g,Bakery,36,3.71,Yes
+21/07/2025,1001,Dun Bread 500g,Bakery,31,5.12,No
+22/06/2025,1005,Ariel Pods 20 pack,Household,28,4.73,Yes
+12/04/2025,1003,Dove Shampoo 250ml,Personal Care,35,6.93,No
+28/03/2025,1001,Coca-Cola 1L,Beverage,35,2.87,No
+11/01/2025,1001,KitKat 4 Finger,Confectionery,32,6.1,Yes
+04/04/2025,1004,Nescafe Instant 200g,Beverage,27,2.81,Yes
+09/07/2025,1005,Persil Detergent 1kg,Household,25,1.31,Yes
+19/05/2025,1004,Nescafe Instant 200g,Beverage,34,1.77,No
+01/08/2025,1003,Fanta 500ml,Beverage,41,7.68,Yes
+30/01/2025,1001,Pepsi 1L,Beverage,27,6.99,No
+21/02/2025,1005,Fanta 500ml,Beverage,38,3.88,No
+26/04/2025,1004,KitKat 4 Finger,Confectionery,30,5.74,Yes
+28/03/2025,1003,Pepsi 1L,Beverage,41,6.82,No
+02/06/2025,1001,Persil Detergent 1kg,Household,28,4.15,No
+10/05/2025,1005,Nescafe Instant 200g,Beverage,30,6.33,No
+22/05/2025,1003,Persil Detergent 1kg,Household,29,3.72,Yes
+23/06/2025,1004,Nescafe Instant 200g,Beverage,31,6.24,No
+15/07/2025,1005,Nescafe Instant 200g,Beverage,32,4.25,Yes
+28/06/2025,1005,Persil Detergent 1kg,Household,32,6.36,No
+23/06/2025,1005,Colgate Toothpaste 100ml,Personal Care,31,6.08,Yes
+12/02/2025,1003,Colgate Toothpaste 100ml,Personal Care,35,2.11,Yes
+26/05/2025,1003,Hell Energy Drink 250ml,Beverage,28,7.44,Yes
+26/04/2025,1001,Persil Detergent 1kg,Household,26,1.21,Yes
+08/04/2025,1002,Doritos 150g,Snacks,22,2.8,Yes
+25/06/2025,1005,Colgate Toothpaste 100ml,Personal Care,34,2.83,No
+02/02/2025,1002,Ariel Pods 20 pack,Household,26,3.18,No
+07/02/2025,1001,Pepsi 1L,Beverage,33,7.64,Yes
+25/04/2025,1005,Sus Water 1.5L,Beverage,27,7.14,Yes
+06/01/2025,1004,Dun Bread 500g,Bakery,32,6.46,No
+13/06/2025,1001,Doritos 150g,Snacks,20,1.1,Yes
+23/06/2025,1005,KitKat 4 Finger,Confectionery,32,7.59,No
+10/01/2025,1003,Lays Chips 70g,Snacks,32,4.43,Yes
+12/03/2025,1003,Milka Chocolate 100g,Confectionery,25,7.7,No
+25/07/2025,1005,Colgate Toothpaste 100ml,Personal Care,31,1.22,Yes
+04/06/2025,1002,Sus Water 1.5L,Beverage,30,5.47,No
+22/06/2025,1001,Doritos 150g,Snacks,24,2.06,No
+15/08/2025,1004,Pepsi 1L,Beverage,34,1.44,No
+19/05/2025,1002,Fanta 500ml,Beverage,28,7.01,No
+01/05/2025,1005,KitKat 4 Finger,Confectionery,34,4.41,No
+14/02/2025,1002,Hell Energy Drink 250ml,Beverage,21,2.83,No
+02/04/2025,1005,Ariel Pods 20 pack,Household,30,5.74,No
+26/03/2025,1002,Persil Detergent 1kg,Household,27,1.43,No
+05/04/2025,1003,Persil Detergent 1kg,Household,26,7.72,No
+19/07/2025,1003,KitKat 4 Finger,Confectionery,39,5.87,No
+08/02/2025,1002,Dun Bread 500g,Bakery,31,5.47,Yes
+05/07/2025,1002,Persil Detergent 1kg,Household,30,3.11,No
+12/03/2025,1002,Pepsi 1L,Beverage,29,6.42,Yes
+17/08/2025,1002,Persil Detergent 1kg,Household,36,1.97,Yes
+29/03/2025,1001,Sus Water 1.5L,Beverage,21,4.98,No
+17/07/2025,1004,Persil Detergent 1kg,Household,25,1.74,Yes
+09/05/2025,1005,Nescafe Instant 200g,Beverage,29,5.19,No
+20/03/2025,1001,Coca-Cola 1L,Beverage,28,6.98,No
+11/08/2025,1002,Dun Bread 500g,Bakery,27,7.82,No
+01/01/2025,1003,Nescafe Instant 200g,Beverage,29,4.96,No
+21/01/2025,1001,Lays Chips 70g,Snacks,24,4.57,Yes
+24/01/2025,1003,Colgate Toothpaste 100ml,Personal Care,29,5.93,No
+01/05/2025,1003,KitKat 4 Finger,Confectionery,21,5.97,Yes
+20/06/2025,1002,Milka Chocolate 100g,Confectionery,25,3.5,No
+29/01/2025,1005,Lays Chips 70g,Snacks,25,4.27,Yes
+27/04/2025,1003,Milka Chocolate 100g,Confectionery,34,4.53,Yes
+08/04/2025,1005,Dove Shampoo 250ml,Personal Care,19,6.86,No
+06/01/2025,1002,Milka Chocolate 100g,Confectionery,25,3.72,No
+09/07/2025,1001,Colgate Toothpaste 100ml,Personal Care,37,5.75,No
+11/06/2025,1004,Milka Chocolate 100g,Confectionery,27,6.83,No
+03/04/2025,1005,Dove Shampoo 250ml,Personal Care,33,6.25,No
+27/05/2025,1004,Coca-Cola 1L,Beverage,38,1.18,Yes
+22/04/2025,1003,Sus Water 1.5L,Beverage,29,5.31,No
+15/01/2025,1005,Dove Shampoo 250ml,Personal Care,23,1.6,No
+14/05/2025,1003,Nescafe Instant 200g,Beverage,35,4.3,Yes
+16/06/2025,1002,KitKat 4 Finger,Confectionery,26,1.17,No
+15/08/2025,1003,Lays Chips 70g,Snacks,41,6.26,Yes
+21/06/2025,1004,Fanta 500ml,Beverage,24,2.8,No
+09/06/2025,1001,Doritos 150g,Snacks,34,1.12,Yes
+25/05/2025,1004,Milka Chocolate 100g,Confectionery,27,4.48,Yes
+26/07/2025,1003,Coca-Cola 1L,Beverage,23,7.5,Yes
+07/01/2025,1003,Colgate Toothpaste 100ml,Personal Care,26,1.79,Yes
+31/08/2025,1002,Milka Chocolate 100g,Confectionery,31,7.21,Yes
+18/06/2025,1003,Colgate Toothpaste 100ml,Personal Care,47,7.34,No
+09/07/2025,1003,Coca-Cola 1L,Beverage,37,4.86,Yes
+29/04/2025,1003,Fanta 500ml,Beverage,21,5.69,Yes
+17/08/2025,1003,Dove Shampoo 250ml,Personal Care,25,1.15,Yes
+29/07/2025,1002,Coca-Cola 1L,Beverage,42,1.65,No
+02/06/2025,1004,Nescafe Instant 200g,Beverage,20,6.96,Yes
+13/02/2025,1004,Coca-Cola 1L,Beverage,23,1.67,Yes
+24/04/2025,1003,Persil Detergent 1kg,Household,38,4.94,Yes
+15/02/2025,1004,Hell Energy Drink 250ml,Beverage,25,4.36,Yes
+25/07/2025,1001,Dove Shampoo 250ml,Personal Care,36,2.43,No
+06/04/2025,1003,Coca-Cola 1L,Beverage,32,1.28,No
+02/04/2025,1004,Nescafe Instant 200g,Beverage,26,5.19,Yes
+21/01/2025,1004,Persil Detergent 1kg,Household,30,6.37,Yes
+27/03/2025,1001,Coca-Cola 1L,Beverage,34,2.02,Yes
+13/04/2025,1001,Doritos 150g,Snacks,30,2.06,Yes
+18/08/2025,1004,Dove Shampoo 250ml,Personal Care,28,1.94,No
+18/04/2025,1001,Fanta 500ml,Beverage,32,6.17,No
+18/01/2025,1002,Dun Bread 500g,Bakery,22,3.25,No
+16/01/2025,1004,Coca-Cola 1L,Beverage,25,6.2,Yes
+13/08/2025,1002,Milka Chocolate 100g,Confectionery,28,3.54,No
+06/02/2025,1002,Sus Water 1.5L,Beverage,26,7.9,No
+17/02/2025,1002,Hell Energy Drink 250ml,Beverage,25,5.81,No
+15/07/2025,1004,Colgate Toothpaste 100ml,Personal Care,25,6.42,No
+16/06/2025,1002,Ariel Pods 20 pack,Household,27,6.21,Yes
+31/08/2025,1004,Fanta 500ml,Beverage,25,4.06,Yes
+09/03/2025,1001,Dun Bread 500g,Bakery,27,1.88,Yes
+07/02/2025,1002,Pepsi 1L,Beverage,30,3.47,No
+24/08/2025,1004,Nescafe Instant 200g,Beverage,31,7.01,Yes
+22/08/2025,1001,Colgate Toothpaste 100ml,Personal Care,34,2.16,No
+28/02/2025,1001,Dove Shampoo 250ml,Personal Care,24,4.19,No
+03/01/2025,1003,Hell Energy Drink 250ml,Beverage,37,5.61,No
+31/03/2025,1004,Lays Chips 70g,Snacks,27,6.4,Yes
+20/06/2025,1005,Doritos 150g,Snacks,24,4.26,No
+30/06/2025,1004,Dun Bread 500g,Bakery,33,4.23,Yes
+12/05/2025,1001,Coca-Cola 1L,Beverage,29,2.7,No
+06/03/2025,1003,KitKat 4 Finger,Confectionery,24,7.96,Yes
+11/06/2025,1004,KitKat 4 Finger,Confectionery,40,2.24,Yes
+02/02/2025,1005,Fanta 500ml,Beverage,23,2.96,No
+23/07/2025,1004,Sus Water 1.5L,Beverage,31,3.86,No
+03/02/2025,1002,Hell Energy Drink 250ml,Beverage,23,4.93,Yes
+21/02/2025,1003,Sus Water 1.5L,Beverage,35,2.22,No
+05/04/2025,1002,Dun Bread 500g,Bakery,29,4.19,No
+28/06/2025,1002,Lays Chips 70g,Snacks,29,5.5,Yes
+16/01/2025,1003,Ariel Pods 20 pack,Household,27,5.97,No
+08/08/2025,1004,Lays Chips 70g,Snacks,37,7.84,No
+21/04/2025,1002,Lays Chips 70g,Snacks,31,7.44,No
+01/08/2025,1005,Dun Bread 500g,Bakery,32,1.13,Yes
+15/03/2025,1002,Colgate Toothpaste 100ml,Personal Care,26,4.03,No
+17/04/2025,1005,KitKat 4 Finger,Confectionery,29,1.58,No
+17/01/2025,1005,Coca-Cola 1L,Beverage,26,3.54,Yes
+22/07/2025,1001,Persil Detergent 1kg,Household,23,7.44,Yes
+23/06/2025,1002,Coca-Cola 1L,Beverage,22,6.47,No
+15/05/2025,1002,Persil Detergent 1kg,Household,30,1.68,Yes
+11/08/2025,1003,Ariel Pods 20 pack,Household,30,7.07,Yes
+23/08/2025,1002,Lays Chips 70g,Snacks,30,8,No
+18/05/2025,1004,Nescafe Instant 200g,Beverage,23,7.04,No
+18/05/2025,1004,Milka Chocolate 100g,Confectionery,31,1.66,Yes
+25/03/2025,1001,KitKat 4 Finger,Confectionery,34,6.65,Yes
+13/07/2025,1005,Fanta 500ml,Beverage,33,2.44,Yes
+01/09/2025,1001,Dove Shampoo 250ml,Personal Care,36,1.11,Yes
+30/05/2025,1003,Coca-Cola 1L,Beverage,22,1.24,No
+27/06/2025,1003,Nescafe Instant 200g,Beverage,28,4.59,No
+31/05/2025,1003,Milka Chocolate 100g,Confectionery,28,7.35,No
+04/05/2025,1004,Pepsi 1L,Beverage,29,2.86,Yes
+17/08/2025,1001,Fanta 500ml,Beverage,24,6.42,No
+02/01/2025,1002,Doritos 150g,Snacks,33,7.43,Yes
+10/04/2025,1003,Ariel Pods 20 pack,Household,34,4.57,No
+17/05/2025,1001,Colgate Toothpaste 100ml,Personal Care,31,5.67,No
+20/08/2025,1002,Doritos 150g,Snacks,40,4.68,Yes
+17/02/2025,1001,KitKat 4 Finger,Confectionery,26,5.68,No
+15/04/2025,1005,Coca-Cola 1L,Beverage,31,7.94,No
+14/04/2025,1004,Lays Chips 70g,Snacks,23,2.87,Yes
+22/02/2025,1005,Nescafe Instant 200g,Beverage,35,2.87,No
+06/08/2025,1005,Lays Chips 70g,Snacks,24,5.04,No
+07/08/2025,1005,Fanta 500ml,Beverage,34,4.61,Yes
+23/04/2025,1004,Hell Energy Drink 250ml,Beverage,32,6.47,No
+17/08/2025,1003,Milka Chocolate 100g,Confectionery,34,3.27,Yes
+28/03/2025,1005,Lays Chips 70g,Snacks,23,2.41,No
+15/01/2025,1001,Sus Water 1.5L,Beverage,37,1.07,No
+06/08/2025,1001,Pepsi 1L,Beverage,29,5.74,No
+13/04/2025,1003,Dun Bread 500g,Bakery,26,1.13,Yes
+19/04/2025,1003,Pepsi 1L,Beverage,36,1.15,Yes
+19/07/2025,1002,Doritos 150g,Snacks,30,5.08,No
+22/05/2025,1004,Pepsi 1L,Beverage,31,3.93,Yes
+29/06/2025,1002,Pepsi 1L,Beverage,31,1.55,No
+20/08/2025,1001,Nescafe Instant 200g,Beverage,35,6.59,Yes
+19/07/2025,1001,Coca-Cola 1L,Beverage,27,1.29,No
+07/07/2025,1001,Pepsi 1L,Beverage,30,4.92,No
+05/02/2025,1002,KitKat 4 Finger,Confectionery,27,3.83,Yes
+01/07/2025,1002,Persil Detergent 1kg,Household,34,1.54,Yes
+07/04/2025,1003,Coca-Cola 1L,Beverage,34,6.32,No
+16/07/2025,1001,Colgate Toothpaste 100ml,Personal Care,18,3.81,Yes
+15/04/2025,1003,Colgate Toothpaste 100ml,Personal Care,29,6.42,No
+26/03/2025,1004,Ariel Pods 20 pack,Household,35,4.41,No
+21/04/2025,1002,Lays Chips 70g,Snacks,35,7.2,Yes
+17/08/2025,1002,Persil Detergent 1kg,Household,26,3.08,Yes
+21/01/2025,1005,KitKat 4 Finger,Confectionery,31,1.93,Yes
+29/07/2025,1005,Fanta 500ml,Beverage,24,4.58,Yes
+03/06/2025,1005,Fanta 500ml,Beverage,33,5.21,No
+05/06/2025,1003,Milka Chocolate 100g,Confectionery,21,2.42,No
+04/04/2025,1004,Dove Shampoo 250ml,Personal Care,31,2.64,No
+14/05/2025,1004,Doritos 150g,Snacks,24,7.98,Yes
+02/01/2025,1001,Fanta 500ml,Beverage,35,5.72,Yes
+20/02/2025,1004,Coca-Cola 1L,Beverage,27,7.6,No
+22/04/2025,1001,Coca-Cola 1L,Beverage,31,1.03,No
+17/07/2025,1002,Ariel Pods 20 pack,Household,32,3.92,Yes
+09/07/2025,1001,KitKat 4 Finger,Confectionery,25,7.43,Yes
+06/01/2025,1004,Ariel Pods 20 pack,Household,45,3.28,Yes
+19/06/2025,1005,Ariel Pods 20 pack,Household,35,7.74,No
+31/03/2025,1003,Nescafe Instant 200g,Beverage,22,3.38,No
+29/01/2025,1001,Nescafe Instant 200g,Beverage,30,4.05,Yes
+07/02/2025,1004,Milka Chocolate 100g,Confectionery,19,2.29,No
+09/05/2025,1001,Dun Bread 500g,Bakery,33,4.88,Yes
+30/01/2025,1004,Doritos 150g,Snacks,21,1.12,No
+26/03/2025,1004,KitKat 4 Finger,Confectionery,28,6.22,No
+10/08/2025,1003,Pepsi 1L,Beverage,33,4.08,Yes
+30/01/2025,1001,Sus Water 1.5L,Beverage,25,6.29,No
+29/06/2025,1004,Nescafe Instant 200g,Beverage,37,3.8,Yes
+09/02/2025,1005,Dun Bread 500g,Bakery,21,1.59,Yes
+12/02/2025,1002,Lays Chips 70g,Snacks,20,3.23,No
+22/06/2025,1003,Pepsi 1L,Beverage,30,2.35,No
+02/06/2025,1002,Coca-Cola 1L,Beverage,25,3.48,No
+30/08/2025,1003,Doritos 150g,Snacks,31,6.31,No
+18/07/2025,1004,Coca-Cola 1L,Beverage,33,3.3,Yes
+07/07/2025,1005,Milka Chocolate 100g,Confectionery,25,3,No
+20/04/2025,1002,Persil Detergent 1kg,Household,39,7.14,No
+03/05/2025,1002,Coca-Cola 1L,Beverage,22,5.61,No
+30/01/2025,1005,Persil Detergent 1kg,Household,24,2.68,No
+27/06/2025,1003,Hell Energy Drink 250ml,Beverage,34,4.24,Yes
+15/08/2025,1002,Fanta 500ml,Beverage,36,5.8,Yes
+05/06/2025,1001,Doritos 150g,Snacks,37,4.84,No
+19/04/2025,1002,Milka Chocolate 100g,Confectionery,29,7.04,No
+11/04/2025,1002,Pepsi 1L,Beverage,37,3.01,No
+27/05/2025,1003,Dove Shampoo 250ml,Personal Care,35,1.88,No
+12/08/2025,1002,Nescafe Instant 200g,Beverage,18,5.93,Yes
+21/01/2025,1003,Fanta 500ml,Beverage,27,7.58,No
+21/07/2025,1001,Persil Detergent 1kg,Household,28,7.34,No
+16/04/2025,1005,Dove Shampoo 250ml,Personal Care,31,7.03,No
+01/03/2025,1002,Doritos 150g,Snacks,24,3.31,Yes
+27/06/2025,1003,Dove Shampoo 250ml,Personal Care,36,4.6,No
+01/08/2025,1002,Lays Chips 70g,Snacks,27,2.94,No
+24/05/2025,1004,KitKat 4 Finger,Confectionery,24,5.56,No
+29/05/2025,1005,Lays Chips 70g,Snacks,27,3.12,Yes
+28/05/2025,1002,Sus Water 1.5L,Beverage,38,4.59,Yes
+14/07/2025,1002,Nescafe Instant 200g,Beverage,29,4.86,Yes
+24/07/2025,1002,Milka Chocolate 100g,Confectionery,34,7.91,Yes
+13/02/2025,1004,Ariel Pods 20 pack,Household,30,6.12,Yes
+23/04/2025,1002,Dun Bread 500g,Bakery,38,1.68,Yes
+04/03/2025,1003,Milka Chocolate 100g,Confectionery,27,4.3,Yes
+27/07/2025,1002,Milka Chocolate 100g,Confectionery,31,4.43,No
+21/04/2025,1002,Hell Energy Drink 250ml,Beverage,27,5.06,No
+02/08/2025,1004,Dove Shampoo 250ml,Personal Care,24,4.76,Yes
+22/05/2025,1003,Nescafe Instant 200g,Beverage,25,7.42,Yes
+19/03/2025,1001,Pepsi 1L,Beverage,36,3.69,No
+08/06/2025,1005,Milka Chocolate 100g,Confectionery,27,4.15,No
+19/07/2025,1004,Nescafe Instant 200g,Beverage,31,7.35,No
+29/07/2025,1001,Colgate Toothpaste 100ml,Personal Care,28,2.29,Yes
+16/06/2025,1001,Nescafe Instant 200g,Beverage,32,3.68,Yes
+24/03/2025,1001,Colgate Toothpaste 100ml,Personal Care,32,7.35,Yes
+19/06/2025,1004,Fanta 500ml,Beverage,37,1.59,No
+24/08/2025,1005,Colgate Toothpaste 100ml,Personal Care,39,1.71,Yes
+02/08/2025,1003,Colgate Toothpaste 100ml,Personal Care,37,3.09,Yes
+05/03/2025,1003,Coca-Cola 1L,Beverage,25,3.88,No
+08/08/2025,1001,Milka Chocolate 100g,Confectionery,27,3.92,Yes
+10/02/2025,1004,Milka Chocolate 100g,Confectionery,29,1.36,No
+22/05/2025,1005,Dun Bread 500g,Bakery,29,4.83,No
+29/08/2025,1004,Coca-Cola 1L,Beverage,18,2.87,No
+20/01/2025,1003,Doritos 150g,Snacks,31,2.44,Yes
+24/06/2025,1004,Milka Chocolate 100g,Confectionery,33,3.01,Yes
+25/04/2025,1003,Fanta 500ml,Beverage,36,5.32,No
+04/02/2025,1003,KitKat 4 Finger,Confectionery,28,5.79,Yes
+15/02/2025,1004,Coca-Cola 1L,Beverage,27,7.04,Yes
+25/02/2025,1003,Sus Water 1.5L,Beverage,24,2.97,No
+09/01/2025,1002,Doritos 150g,Snacks,28,1.08,No
+23/04/2025,1004,Sus Water 1.5L,Beverage,26,7.01,Yes
+17/04/2025,1001,Nescafe Instant 200g,Beverage,18,5.69,Yes
+14/04/2025,1003,Colgate Toothpaste 100ml,Personal Care,39,1.9,No
+06/01/2025,1002,Fanta 500ml,Beverage,31,5.98,No
+10/01/2025,1005,Pepsi 1L,Beverage,20,3.99,No
+28/03/2025,1004,Fanta 500ml,Beverage,31,7.54,Yes
+27/01/2025,1001,Hell Energy Drink 250ml,Beverage,30,6.75,No
+25/02/2025,1001,KitKat 4 Finger,Confectionery,37,3.02,Yes
+07/01/2025,1001,Pepsi 1L,Beverage,23,2.04,No
+03/02/2025,1001,Hell Energy Drink 250ml,Beverage,29,6.47,No
+13/04/2025,1003,Ariel Pods 20 pack,Household,28,5.73,Yes
+09/06/2025,1004,Pepsi 1L,Beverage,30,6.34,Yes
+25/06/2025,1005,KitKat 4 Finger,Confectionery,34,2.4,Yes
+07/03/2025,1004,KitKat 4 Finger,Confectionery,30,5.49,Yes
+20/03/2025,1001,Sus Water 1.5L,Beverage,14,3.93,Yes
+01/03/2025,1003,Doritos 150g,Snacks,30,1.09,Yes
+21/01/2025,1005,Ariel Pods 20 pack,Household,28,3.95,Yes
+23/02/2025,1004,Persil Detergent 1kg,Household,38,4.14,No
+28/07/2025,1001,Sus Water 1.5L,Beverage,26,2.62,Yes
+26/03/2025,1001,Sus Water 1.5L,Beverage,32,4.47,No
+03/03/2025,1001,Sus Water 1.5L,Beverage,34,1.52,Yes
+05/04/2025,1003,Hell Energy Drink 250ml,Beverage,41,6.14,Yes
+07/02/2025,1001,Dove Shampoo 250ml,Personal Care,23,4.83,No
+10/08/2025,1003,Hell Energy Drink 250ml,Beverage,37,7.45,No
+20/05/2025,1001,Persil Detergent 1kg,Household,29,6.5,No
+19/01/2025,1002,Persil Detergent 1kg,Household,27,4.89,No
+26/04/2025,1003,Hell Energy Drink 250ml,Beverage,26,1.93,No
+12/03/2025,1005,Lays Chips 70g,Snacks,35,2.46,Yes
+08/02/2025,1005,Dun Bread 500g,Bakery,25,5.69,No
+25/02/2025,1001,Milka Chocolate 100g,Confectionery,24,6.62,No
+12/05/2025,1004,Persil Detergent 1kg,Household,29,5.81,Yes
+07/02/2025,1003,Fanta 500ml,Beverage,37,4.41,Yes
+18/08/2025,1004,Persil Detergent 1kg,Household,31,6.01,No
+28/01/2025,1003,Sus Water 1.5L,Beverage,18,4.87,Yes
+11/03/2025,1003,Fanta 500ml,Beverage,35,3.98,Yes
+09/08/2025,1004,Doritos 150g,Snacks,24,1.76,No
+14/03/2025,1004,Colgate Toothpaste 100ml,Personal Care,33,6.33,Yes
+19/06/2025,1004,Lays Chips 70g,Snacks,20,4.24,Yes
+28/04/2025,1005,Persil Detergent 1kg,Household,28,4.04,No
+15/07/2025,1003,Coca-Cola 1L,Beverage,28,1.5,No
+16/07/2025,1003,Pepsi 1L,Beverage,28,7.48,Yes
+12/08/2025,1005,Coca-Cola 1L,Beverage,31,7.44,No
+31/01/2025,1003,Nescafe Instant 200g,Beverage,29,4.51,Yes
+21/08/2025,1002,Fanta 500ml,Beverage,26,2.88,No
+21/05/2025,1002,Coca-Cola 1L,Beverage,33,6.46,Yes
+03/06/2025,1005,Dun Bread 500g,Bakery,35,3.12,Yes
+05/01/2025,1005,Fanta 500ml,Beverage,40,1.65,No
+06/02/2025,1002,Nescafe Instant 200g,Beverage,35,2.05,No
+23/06/2025,1004,Lays Chips 70g,Snacks,36,4.33,No
+10/03/2025,1005,Dove Shampoo 250ml,Personal Care,26,4.75,Yes
+02/01/2025,1004,Milka Chocolate 100g,Confectionery,31,1.83,Yes
+03/03/2025,1003,Fanta 500ml,Beverage,30,7.26,No
+04/08/2025,1003,Doritos 150g,Snacks,27,7.81,No
+27/02/2025,1003,Coca-Cola 1L,Beverage,35,4.91,No
+22/06/2025,1005,Hell Energy Drink 250ml,Beverage,40,1.77,Yes
+08/02/2025,1001,Dun Bread 500g,Bakery,32,3.38,No
+24/07/2025,1005,Dun Bread 500g,Bakery,26,3.54,No
+02/07/2025,1001,Milka Chocolate 100g,Confectionery,43,7.46,Yes
+16/01/2025,1003,Milka Chocolate 100g,Confectionery,40,2.37,Yes
+23/08/2025,1001,Dun Bread 500g,Bakery,35,5.92,No
+09/02/2025,1004,Sus Water 1.5L,Beverage,33,3.39,No
+15/08/2025,1004,KitKat 4 Finger,Confectionery,27,2.77,No
+07/07/2025,1003,Doritos 150g,Snacks,26,5.59,Yes
+14/02/2025,1005,Doritos 150g,Snacks,21,2.87,Yes
+21/02/2025,1005,Persil Detergent 1kg,Household,33,6.75,No
+03/03/2025,1002,Ariel Pods 20 pack,Household,22,4.18,No
+27/02/2025,1002,Ariel Pods 20 pack,Household,30,4.37,No
+19/05/2025,1002,Nescafe Instant 200g,Beverage,25,4.54,No
+17/06/2025,1004,Coca-Cola 1L,Beverage,34,3.66,No
+10/07/2025,1004,Lays Chips 70g,Snacks,34,3.46,Yes
+17/07/2025,1002,Colgate Toothpaste 100ml,Personal Care,27,4.03,No
+12/06/2025,1005,Dove Shampoo 250ml,Personal Care,25,3.66,Yes
+10/03/2025,1002,Milka Chocolate 100g,Confectionery,35,4.62,No
+27/07/2025,1003,Colgate Toothpaste 100ml,Personal Care,41,6.56,Yes
+14/03/2025,1005,Lays Chips 70g,Snacks,36,5.61,Yes
+12/01/2025,1002,Hell Energy Drink 250ml,Beverage,27,1.06,No
+10/06/2025,1001,Pepsi 1L,Beverage,44,5.52,Yes
+07/01/2025,1003,Dun Bread 500g,Bakery,24,4.69,Yes
+10/06/2025,1005,Sus Water 1.5L,Beverage,27,3.11,No
+21/01/2025,1005,Doritos 150g,Snacks,35,2.02,Yes
+08/08/2025,1005,Dun Bread 500g,Bakery,44,7.29,No
+02/08/2025,1005,Sus Water 1.5L,Beverage,32,1.27,Yes
+12/02/2025,1002,Nescafe Instant 200g,Beverage,27,1.91,No
+27/07/2025,1004,Coca-Cola 1L,Beverage,33,3.69,Yes
+02/08/2025,1001,Dove Shampoo 250ml,Personal Care,45,2.78,No
+12/02/2025,1005,Nescafe Instant 200g,Beverage,34,4.92,Yes
+24/05/2025,1003,Ariel Pods 20 pack,Household,22,4.08,No
+21/02/2025,1005,Sus Water 1.5L,Beverage,34,3.58,Yes
+18/01/2025,1001,Lays Chips 70g,Snacks,29,5.76,No
+24/03/2025,1001,Nescafe Instant 200g,Beverage,28,2.04,No
+24/02/2025,1001,Pepsi 1L,Beverage,25,1.89,Yes
+17/06/2025,1004,Sus Water 1.5L,Beverage,26,7.03,No
+25/06/2025,1002,Dove Shampoo 250ml,Personal Care,24,1.08,No
+08/03/2025,1005,Pepsi 1L,Beverage,27,5.93,No
+16/05/2025,1003,Milka Chocolate 100g,Confectionery,33,6.16,No
+06/06/2025,1005,Dun Bread 500g,Bakery,31,5.45,Yes
+30/06/2025,1003,Nescafe Instant 200g,Beverage,30,6.85,No
+31/03/2025,1001,Nescafe Instant 200g,Beverage,39,6.69,No
+13/06/2025,1003,Sus Water 1.5L,Beverage,44,4.37,No
+05/01/2025,1005,Sus Water 1.5L,Beverage,36,1,Yes
+18/02/2025,1003,Pepsi 1L,Beverage,25,4.95,Yes
+19/03/2025,1005,KitKat 4 Finger,Confectionery,33,7.78,Yes
+04/07/2025,1002,KitKat 4 Finger,Confectionery,25,4.46,Yes
+24/04/2025,1003,Nescafe Instant 200g,Beverage,28,3.07,Yes
+03/02/2025,1003,Persil Detergent 1kg,Household,33,5.43,No
+10/02/2025,1005,KitKat 4 Finger,Confectionery,37,7.42,Yes
+10/07/2025,1005,Doritos 150g,Snacks,25,6.13,No
+01/03/2025,1002,Lays Chips 70g,Snacks,26,6.71,No
+20/07/2025,1001,Nescafe Instant 200g,Beverage,31,7.58,Yes
+28/08/2025,1001,Hell Energy Drink 250ml,Beverage,28,4.52,No
+04/01/2025,1001,Dun Bread 500g,Bakery,33,2.64,No
+17/08/2025,1004,Hell Energy Drink 250ml,Beverage,29,7.34,No
+29/05/2025,1003,Colgate Toothpaste 100ml,Personal Care,22,1.97,No
+15/04/2025,1005,Coca-Cola 1L,Beverage,26,3.27,No
+02/02/2025,1004,Nescafe Instant 200g,Beverage,29,5.45,No
+04/05/2025,1004,Persil Detergent 1kg,Household,31,7.29,No
+25/06/2025,1001,Ariel Pods 20 pack,Household,23,3.66,Yes
+26/02/2025,1001,KitKat 4 Finger,Confectionery,31,7.4,No
+30/05/2025,1002,KitKat 4 Finger,Confectionery,24,7.03,No
+30/06/2025,1004,Ariel Pods 20 pack,Household,29,7.24,No
+10/08/2025,1001,Hell Energy Drink 250ml,Beverage,24,1.34,Yes
+31/07/2025,1004,Coca-Cola 1L,Beverage,23,1.53,No
+15/07/2025,1005,Coca-Cola 1L,Beverage,34,1.71,No
+13/02/2025,1004,Dove Shampoo 250ml,Personal Care,41,1.46,Yes
+29/04/2025,1004,Milka Chocolate 100g,Confectionery,31,6.15,No
+26/02/2025,1005,Dove Shampoo 250ml,Personal Care,20,5.3,Yes
+21/07/2025,1004,Milka Chocolate 100g,Confectionery,19,1.62,Yes
+19/04/2025,1002,Coca-Cola 1L,Beverage,37,3.68,No
+29/08/2025,1004,Fanta 500ml,Beverage,24,7.38,Yes
+15/04/2025,1002,KitKat 4 Finger,Confectionery,29,7.41,Yes
+06/04/2025,1005,Lays Chips 70g,Snacks,28,5.14,No
+02/08/2025,1002,Dun Bread 500g,Bakery,26,6.57,No
+28/02/2025,1005,Ariel Pods 20 pack,Household,30,6.59,Yes
+10/05/2025,1004,Fanta 500ml,Beverage,24,5.71,Yes
+23/06/2025,1005,Sus Water 1.5L,Beverage,31,4.78,No
+15/05/2025,1005,Lays Chips 70g,Snacks,25,7.86,Yes
+04/08/2025,1005,Ariel Pods 20 pack,Household,34,5.67,Yes
+11/06/2025,1002,Colgate Toothpaste 100ml,Personal Care,22,4.97,Yes
+08/05/2025,1003,Dun Bread 500g,Bakery,29,4.59,No
+21/04/2025,1004,Colgate Toothpaste 100ml,Personal Care,33,6.93,Yes
+20/07/2025,1002,Doritos 150g,Snacks,21,1.76,No
+09/07/2025,1001,Pepsi 1L,Beverage,25,2.67,Yes
+29/01/2025,1005,Nescafe Instant 200g,Beverage,24,4.12,No
+23/06/2025,1003,Fanta 500ml,Beverage,30,4.74,No
+11/08/2025,1004,Sus Water 1.5L,Beverage,37,1.85,Yes
+20/04/2025,1002,Sus Water 1.5L,Beverage,30,5.67,No
+04/02/2025,1005,Nescafe Instant 200g,Beverage,35,2.09,No
+11/06/2025,1005,KitKat 4 Finger,Confectionery,32,1.09,Yes
+27/01/2025,1002,Pepsi 1L,Beverage,36,6.58,Yes
+06/05/2025,1002,Colgate Toothpaste 100ml,Personal Care,34,7.51,No
+19/03/2025,1004,Lays Chips 70g,Snacks,36,4.08,Yes
+01/05/2025,1002,Ariel Pods 20 pack,Household,31,6.15,No
+09/05/2025,1004,Coca-Cola 1L,Beverage,36,3.87,No
+14/02/2025,1004,Coca-Cola 1L,Beverage,32,1.79,Yes
+17/03/2025,1003,Doritos 150g,Snacks,33,7.37,Yes
+30/05/2025,1004,Milka Chocolate 100g,Confectionery,29,4.36,Yes
+06/07/2025,1003,Doritos 150g,Snacks,34,5.32,No
+02/08/2025,1002,Nescafe Instant 200g,Beverage,28,6.02,Yes
+29/03/2025,1002,Nescafe Instant 200g,Beverage,35,2.49,No
+04/05/2025,1005,Milka Chocolate 100g,Confectionery,31,5.91,No
+19/04/2025,1001,Fanta 500ml,Beverage,33,7.7,Yes
+28/01/2025,1001,Fanta 500ml,Beverage,32,2.89,Yes
+03/06/2025,1004,Hell Energy Drink 250ml,Beverage,30,5.42,No
+08/06/2025,1001,KitKat 4 Finger,Confectionery,29,6.66,No
+19/05/2025,1004,Ariel Pods 20 pack,Household,27,1.4,Yes
+06/04/2025,1002,Hell Energy Drink 250ml,Beverage,31,3.4,No
+07/07/2025,1003,KitKat 4 Finger,Confectionery,29,7.26,Yes
+05/06/2025,1002,Lays Chips 70g,Snacks,29,7.27,No
+27/04/2025,1005,Dun Bread 500g,Bakery,35,3.5,Yes
+11/05/2025,1003,Nescafe Instant 200g,Beverage,29,4.87,Yes
+10/06/2025,1004,Milka Chocolate 100g,Confectionery,30,2.74,Yes
+13/03/2025,1002,Dove Shampoo 250ml,Personal Care,29,2.75,Yes
+23/01/2025,1003,Colgate Toothpaste 100ml,Personal Care,35,5.5,Yes
+17/02/2025,1001,Colgate Toothpaste 100ml,Personal Care,51,2.6,Yes
+12/05/2025,1005,Hell Energy Drink 250ml,Beverage,25,1.07,No
+08/05/2025,1003,Dun Bread 500g,Bakery,26,6.4,No
+26/07/2025,1001,Hell Energy Drink 250ml,Beverage,41,3.77,No
+10/04/2025,1005,Colgate Toothpaste 100ml,Personal Care,28,2.23,No
+07/05/2025,1001,Milka Chocolate 100g,Confectionery,23,5.16,Yes
+23/03/2025,1002,Ariel Pods 20 pack,Household,34,3.48,No
+28/01/2025,1001,Persil Detergent 1kg,Household,18,7.12,No
+30/04/2025,1003,KitKat 4 Finger,Confectionery,33,6.89,No
+08/06/2025,1002,Fanta 500ml,Beverage,35,2.95,No
+05/05/2025,1005,Dove Shampoo 250ml,Personal Care,30,5.06,No
+22/05/2025,1005,Pepsi 1L,Beverage,37,7.52,Yes
+19/01/2025,1004,Fanta 500ml,Beverage,35,4.14,No
+15/03/2025,1005,Hell Energy Drink 250ml,Beverage,28,5.5,Yes
+10/05/2025,1003,Sus Water 1.5L,Beverage,28,5.4,Yes
+01/06/2025,1001,Ariel Pods 20 pack,Household,29,5.41,Yes
+20/02/2025,1003,Milka Chocolate 100g,Confectionery,30,1.04,No
+06/06/2025,1001,KitKat 4 Finger,Confectionery,31,4.64,Yes
+23/06/2025,1002,Sus Water 1.5L,Beverage,24,2.24,No
+26/07/2025,1001,Fanta 500ml,Beverage,39,2.43,No
+28/08/2025,1003,Ariel Pods 20 pack,Household,25,4.98,Yes
+12/08/2025,1003,Fanta 500ml,Beverage,32,3.34,No
+11/01/2025,1005,Pepsi 1L,Beverage,27,6.64,No
+08/01/2025,1001,Dove Shampoo 250ml,Personal Care,27,1.67,Yes
+07/04/2025,1003,Milka Chocolate 100g,Confectionery,24,3.52,Yes
+15/03/2025,1004,Dove Shampoo 250ml,Personal Care,28,5.31,Yes
+05/06/2025,1001,Persil Detergent 1kg,Household,23,7.53,Yes
+20/03/2025,1001,Hell Energy Drink 250ml,Beverage,36,1.25,Yes
+27/05/2025,1005,Milka Chocolate 100g,Confectionery,31,3.8,No
+11/07/2025,1002,Pepsi 1L,Beverage,21,3.4,Yes
+16/08/2025,1004,Lays Chips 70g,Snacks,24,4.4,Yes
+17/06/2025,1002,Dun Bread 500g,Bakery,24,5.5,Yes
+16/08/2025,1003,KitKat 4 Finger,Confectionery,30,2.17,Yes
+27/06/2025,1002,Lays Chips 70g,Snacks,30,6.34,No
+13/05/2025,1005,Persil Detergent 1kg,Household,33,1.12,No
+09/07/2025,1002,Ariel Pods 20 pack,Household,27,5.99,No
+14/07/2025,1001,Dove Shampoo 250ml,Personal Care,18,3.85,No
+05/03/2025,1004,Dove Shampoo 250ml,Personal Care,21,5.82,No
+28/01/2025,1003,Fanta 500ml,Beverage,26,7.09,Yes
+30/04/2025,1002,Dove Shampoo 250ml,Personal Care,24,4.58,No
+05/05/2025,1001,Ariel Pods 20 pack,Household,30,5.77,Yes
+04/01/2025,1001,Dun Bread 500g,Bakery,34,4.1,Yes
+03/03/2025,1004,Colgate Toothpaste 100ml,Personal Care,30,2.37,Yes
+18/03/2025,1003,Persil Detergent 1kg,Household,30,5.54,No
+17/03/2025,1004,Nescafe Instant 200g,Beverage,33,1.09,No
+02/02/2025,1003,Ariel Pods 20 pack,Household,31,1.12,Yes
+22/03/2025,1005,Dun Bread 500g,Bakery,38,3.76,Yes
+13/03/2025,1004,Dove Shampoo 250ml,Personal Care,29,4.57,No
+09/04/2025,1002,Pepsi 1L,Beverage,28,3.61,No
+22/04/2025,1003,Nescafe Instant 200g,Beverage,41,4.21,Yes
+04/07/2025,1002,KitKat 4 Finger,Confectionery,22,5.42,No
+21/03/2025,1005,Nescafe Instant 200g,Beverage,29,5.34,Yes
+05/06/2025,1005,Colgate Toothpaste 100ml,Personal Care,26,6.17,No
+19/04/2025,1003,Hell Energy Drink 250ml,Beverage,27,3.66,Yes
+30/05/2025,1002,Doritos 150g,Snacks,26,6.59,No
+08/03/2025,1003,KitKat 4 Finger,Confectionery,21,2.6,Yes
+20/04/2025,1001,Dove Shampoo 250ml,Personal Care,33,7.02,Yes
+25/01/2025,1002,Nescafe Instant 200g,Beverage,20,3.74,Yes
+16/03/2025,1004,Persil Detergent 1kg,Household,28,4.27,Yes
+11/07/2025,1002,Fanta 500ml,Beverage,37,3.11,No
+14/08/2025,1001,Fanta 500ml,Beverage,34,5.66,No
+16/01/2025,1004,Sus Water 1.5L,Beverage,35,6.02,No
+26/04/2025,1005,Dun Bread 500g,Bakery,28,1.71,Yes
+14/01/2025,1004,Ariel Pods 20 pack,Household,29,4.24,No
+25/08/2025,1002,Pepsi 1L,Beverage,31,4.07,No
+24/06/2025,1003,Lays Chips 70g,Snacks,23,6.16,No
+20/05/2025,1001,Dun Bread 500g,Bakery,28,5.01,No
+22/04/2025,1003,Dun Bread 500g,Bakery,34,4.24,No
+13/07/2025,1003,Dove Shampoo 250ml,Personal Care,32,6.51,Yes
+05/07/2025,1003,Pepsi 1L,Beverage,27,1.25,No
+08/08/2025,1001,KitKat 4 Finger,Confectionery,31,3.32,No
+13/01/2025,1002,Colgate Toothpaste 100ml,Personal Care,37,7.87,Yes
+29/01/2025,1004,Coca-Cola 1L,Beverage,26,3.88,Yes
+09/08/2025,1004,Dun Bread 500g,Bakery,35,6.15,Yes
+19/05/2025,1004,Sus Water 1.5L,Beverage,23,1.52,Yes
+03/06/2025,1004,Doritos 150g,Snacks,31,6.63,Yes
+24/04/2025,1003,Hell Energy Drink 250ml,Beverage,34,1.71,No
+23/03/2025,1001,Persil Detergent 1kg,Household,28,2.86,Yes
+08/02/2025,1005,Sus Water 1.5L,Beverage,32,2.64,Yes
+29/03/2025,1005,Ariel Pods 20 pack,Household,18,6.46,No
+21/04/2025,1001,Dove Shampoo 250ml,Personal Care,35,2.75,Yes
+14/06/2025,1002,Milka Chocolate 100g,Confectionery,25,5.65,Yes
+29/07/2025,1002,Dun Bread 500g,Bakery,28,5.4,Yes
+25/07/2025,1001,Doritos 150g,Snacks,35,1.81,No
+18/07/2025,1003,Milka Chocolate 100g,Confectionery,35,4.2,Yes
+15/02/2025,1004,Nescafe Instant 200g,Beverage,26,3.93,Yes
+28/04/2025,1003,Lays Chips 70g,Snacks,25,3.44,Yes
+29/07/2025,1002,Sus Water 1.5L,Beverage,31,1.25,No
+18/03/2025,1001,Persil Detergent 1kg,Household,29,2.03,No
+03/06/2025,1005,Fanta 500ml,Beverage,30,2.19,No
+11/06/2025,1005,Coca-Cola 1L,Beverage,36,2.69,No
+22/03/2025,1003,Fanta 500ml,Beverage,20,1.54,Yes
+06/07/2025,1004,Ariel Pods 20 pack,Household,23,1.18,Yes
+18/02/2025,1003,Milka Chocolate 100g,Confectionery,37,1.78,Yes
+16/06/2025,1002,Colgate Toothpaste 100ml,Personal Care,31,6.19,No
+10/07/2025,1005,Persil Detergent 1kg,Household,27,3.02,No
+26/07/2025,1005,Sus Water 1.5L,Beverage,26,7.26,No
+10/02/2025,1005,Pepsi 1L,Beverage,33,2.26,Yes
+02/08/2025,1005,Nescafe Instant 200g,Beverage,23,3.36,Yes
+02/02/2025,1005,Persil Detergent 1kg,Household,27,4.64,No
+03/06/2025,1002,Lays Chips 70g,Snacks,30,1.79,No
+09/08/2025,1005,Lays Chips 70g,Snacks,34,1.92,Yes
+12/07/2025,1003,Persil Detergent 1kg,Household,34,6.22,Yes
+05/02/2025,1001,Hell Energy Drink 250ml,Beverage,25,7.67,Yes
+05/01/2025,1005,Hell Energy Drink 250ml,Beverage,40,2.86,Yes
+12/06/2025,1005,Lays Chips 70g,Snacks,28,1.99,Yes
+25/06/2025,1001,Fanta 500ml,Beverage,32,3.83,No
+22/07/2025,1001,Doritos 150g,Snacks,25,3.25,Yes
+11/01/2025,1001,Dove Shampoo 250ml,Personal Care,29,5.72,No
+09/06/2025,1002,Ariel Pods 20 pack,Household,26,1.39,Yes
+27/06/2025,1002,Doritos 150g,Snacks,41,2.15,Yes
+09/02/2025,1001,Coca-Cola 1L,Beverage,23,7.13,Yes
+15/02/2025,1003,Lays Chips 70g,Snacks,31,8,Yes
+30/03/2025,1005,Fanta 500ml,Beverage,22,2.69,Yes
+22/06/2025,1005,Sus Water 1.5L,Beverage,26,7.37,Yes
+11/06/2025,1003,Coca-Cola 1L,Beverage,25,6.67,Yes
+24/01/2025,1003,KitKat 4 Finger,Confectionery,37,4.85,Yes
+28/06/2025,1001,Lays Chips 70g,Snacks,33,6.86,No
+17/01/2025,1004,Hell Energy Drink 250ml,Beverage,32,1.17,Yes
+29/06/2025,1002,Milka Chocolate 100g,Confectionery,35,6.37,No
+07/03/2025,1002,Dove Shampoo 250ml,Personal Care,28,1.23,No
+06/02/2025,1004,Doritos 150g,Snacks,34,7.09,No
+14/01/2025,1005,Ariel Pods 20 pack,Household,27,7.49,Yes
+23/07/2025,1005,Dun Bread 500g,Bakery,35,1.74,No
+22/07/2025,1003,Fanta 500ml,Beverage,30,3.81,Yes
+13/05/2025,1001,Colgate Toothpaste 100ml,Personal Care,33,7.49,No
+10/01/2025,1003,Dove Shampoo 250ml,Personal Care,28,3.7,Yes
+24/02/2025,1004,Pepsi 1L,Beverage,29,3.95,Yes
+11/02/2025,1001,Nescafe Instant 200g,Beverage,28,2.86,No
+22/03/2025,1003,KitKat 4 Finger,Confectionery,38,2.82,No
+20/03/2025,1004,Ariel Pods 20 pack,Household,35,1.81,Yes
+29/06/2025,1001,Coca-Cola 1L,Beverage,24,7.5,No
+18/02/2025,1004,Hell Energy Drink 250ml,Beverage,39,2.82,No
+22/08/2025,1004,Coca-Cola 1L,Beverage,36,6.98,Yes
+17/05/2025,1003,Milka Chocolate 100g,Confectionery,36,2.25,No
+07/08/2025,1002,Persil Detergent 1kg,Household,27,7.03,Yes
+16/01/2025,1005,Lays Chips 70g,Snacks,27,3.97,Yes
+11/02/2025,1005,Lays Chips 70g,Snacks,30,6.12,Yes
+12/07/2025,1003,Persil Detergent 1kg,Household,33,3.69,Yes
+24/08/2025,1001,Ariel Pods 20 pack,Household,37,4.05,No
+29/07/2025,1004,Milka Chocolate 100g,Confectionery,30,5.03,Yes
+25/01/2025,1002,Milka Chocolate 100g,Confectionery,23,5.12,No
+06/02/2025,1001,Ariel Pods 20 pack,Household,30,7.85,No
+09/01/2025,1005,Doritos 150g,Snacks,42,5.48,Yes
+21/02/2025,1004,Pepsi 1L,Beverage,27,3.51,Yes
+26/05/2025,1002,Lays Chips 70g,Snacks,31,3.03,No
+11/06/2025,1003,Colgate Toothpaste 100ml,Personal Care,39,7.54,Yes
+30/07/2025,1001,Persil Detergent 1kg,Household,36,3.09,Yes
+12/08/2025,1004,Sus Water 1.5L,Beverage,25,2.39,Yes
+06/06/2025,1004,Nescafe Instant 200g,Beverage,19,5.42,Yes
+05/03/2025,1005,KitKat 4 Finger,Confectionery,27,1.29,Yes
+09/05/2025,1001,Milka Chocolate 100g,Confectionery,30,7.17,No
+27/04/2025,1003,Milka Chocolate 100g,Confectionery,33,1.99,Yes
+03/01/2025,1004,Ariel Pods 20 pack,Household,25,2.51,No
+24/07/2025,1002,Ariel Pods 20 pack,Household,37,7.39,Yes
+05/08/2025,1003,Sus Water 1.5L,Beverage,40,6.82,No
+07/07/2025,1004,Dove Shampoo 250ml,Personal Care,28,4.03,Yes
+23/03/2025,1001,Coca-Cola 1L,Beverage,24,6.39,No
+11/04/2025,1003,Persil Detergent 1kg,Household,31,2.45,No
+04/03/2025,1004,Doritos 150g,Snacks,39,4.66,No
+29/03/2025,1002,Coca-Cola 1L,Beverage,27,7.43,No
+10/01/2025,1002,Colgate Toothpaste 100ml,Personal Care,31,1.08,No
+17/07/2025,1005,Nescafe Instant 200g,Beverage,32,6.15,No
+19/08/2025,1001,Pepsi 1L,Beverage,29,6.71,Yes
+02/01/2025,1005,Persil Detergent 1kg,Household,34,4.73,No
+18/06/2025,1005,Pepsi 1L,Beverage,30,2.87,No
+26/01/2025,1001,Pepsi 1L,Beverage,29,3.1,Yes
+25/01/2025,1005,Coca-Cola 1L,Beverage,33,1.21,No
+29/04/2025,1004,Hell Energy Drink 250ml,Beverage,33,5.49,No
+08/01/2025,1005,Doritos 150g,Snacks,24,6.55,No
+19/01/2025,1001,Coca-Cola 1L,Beverage,24,6.85,No
+05/07/2025,1004,Dove Shampoo 250ml,Personal Care,33,3.34,No
+27/01/2025,1001,Persil Detergent 1kg,Household,36,3.49,No
+20/08/2025,1003,Milka Chocolate 100g,Confectionery,30,1.17,No
+09/01/2025,1003,Ariel Pods 20 pack,Household,33,3,No
+11/06/2025,1004,Pepsi 1L,Beverage,41,3.14,Yes
+09/01/2025,1005,Dove Shampoo 250ml,Personal Care,29,6.1,No
+05/06/2025,1003,Dun Bread 500g,Bakery,28,7.67,Yes
+26/08/2025,1005,Nescafe Instant 200g,Beverage,21,1.73,Yes
+02/01/2025,1004,Fanta 500ml,Beverage,32,5.96,Yes
+06/02/2025,1003,Milka Chocolate 100g,Confectionery,31,2.73,Yes
+08/04/2025,1002,Dove Shampoo 250ml,Personal Care,22,3.81,No
+30/07/2025,1004,KitKat 4 Finger,Confectionery,29,4.31,Yes
+18/04/2025,1005,Pepsi 1L,Beverage,25,4.1,Yes
+23/02/2025,1003,Milka Chocolate 100g,Confectionery,39,5.07,No
+05/02/2025,1004,Pepsi 1L,Beverage,34,2.1,No
+21/06/2025,1001,Pepsi 1L,Beverage,26,4.73,No
+24/07/2025,1001,Persil Detergent 1kg,Household,34,1.63,Yes
+28/03/2025,1002,Sus Water 1.5L,Beverage,20,1.14,No
+09/03/2025,1003,Persil Detergent 1kg,Household,39,5.68,No
+26/06/2025,1002,Lays Chips 70g,Snacks,31,2.05,No
+27/03/2025,1002,Lays Chips 70g,Snacks,23,5.5,Yes
+17/02/2025,1005,Dun Bread 500g,Bakery,33,5.05,Yes
+10/01/2025,1001,Pepsi 1L,Beverage,26,7.39,No
+28/03/2025,1004,Sus Water 1.5L,Beverage,35,4.29,No
+24/02/2025,1001,KitKat 4 Finger,Confectionery,22,4.52,Yes
+14/02/2025,1002,Hell Energy Drink 250ml,Beverage,26,1.3,No
+02/06/2025,1002,Colgate Toothpaste 100ml,Personal Care,31,2.61,No
+20/07/2025,1001,Coca-Cola 1L,Beverage,45,3.64,No
+09/05/2025,1004,Lays Chips 70g,Snacks,27,4.43,No
+02/04/2025,1002,KitKat 4 Finger,Confectionery,28,5.55,Yes
+16/04/2025,1001,Nescafe Instant 200g,Beverage,24,4.18,No
+25/01/2025,1002,Milka Chocolate 100g,Confectionery,41,4.9,Yes
+19/04/2025,1003,Colgate Toothpaste 100ml,Personal Care,29,5.61,No
+09/06/2025,1002,Nescafe Instant 200g,Beverage,36,5.76,No
+07/02/2025,1001,KitKat 4 Finger,Confectionery,27,7.5,No
+17/01/2025,1004,Coca-Cola 1L,Beverage,36,5.05,Yes
+04/06/2025,1002,Coca-Cola 1L,Beverage,36,4.14,Yes
+22/02/2025,1001,Milka Chocolate 100g,Confectionery,25,2.15,No
+14/03/2025,1003,Doritos 150g,Snacks,33,2.74,No
+14/03/2025,1002,Persil Detergent 1kg,Household,24,6.92,Yes
+20/03/2025,1003,Pepsi 1L,Beverage,28,2.46,No
+21/07/2025,1005,Coca-Cola 1L,Beverage,43,7.69,No
+12/08/2025,1001,Hell Energy Drink 250ml,Beverage,28,5.43,No
+21/08/2025,1003,Doritos 150g,Snacks,34,3.13,Yes
+09/07/2025,1001,Milka Chocolate 100g,Confectionery,28,3.08,Yes
+22/05/2025,1001,Persil Detergent 1kg,Household,30,5.65,No
+13/04/2025,1004,Milka Chocolate 100g,Confectionery,32,3.14,Yes
+25/06/2025,1001,Fanta 500ml,Beverage,22,1.04,No
+31/01/2025,1001,Ariel Pods 20 pack,Household,26,6.27,Yes
+31/03/2025,1002,Pepsi 1L,Beverage,27,7.72,No
+12/06/2025,1004,Doritos 150g,Snacks,30,5.49,Yes
+05/01/2025,1005,Nescafe Instant 200g,Beverage,24,4.13,No
+27/02/2025,1003,Ariel Pods 20 pack,Household,31,5.36,No
+03/07/2025,1005,Ariel Pods 20 pack,Household,33,3.31,Yes
+06/03/2025,1004,Nescafe Instant 200g,Beverage,31,5.66,Yes
+13/06/2025,1004,Milka Chocolate 100g,Confectionery,33,5.6,Yes
+31/03/2025,1003,Ariel Pods 20 pack,Household,35,5.38,No
+25/03/2025,1004,Colgate Toothpaste 100ml,Personal Care,37,2.17,No
+26/07/2025,1003,Colgate Toothpaste 100ml,Personal Care,21,1.38,No
+11/01/2025,1005,Nescafe Instant 200g,Beverage,21,3.68,Yes
+02/04/2025,1001,Lays Chips 70g,Snacks,28,7.89,Yes
+21/07/2025,1004,Milka Chocolate 100g,Confectionery,23,7.43,Yes
+12/03/2025,1005,Colgate Toothpaste 100ml,Personal Care,30,4.04,No
+28/01/2025,1003,Nescafe Instant 200g,Beverage,28,1.08,No
+10/06/2025,1003,Ariel Pods 20 pack,Household,16,6.5,No
+13/06/2025,1005,Dun Bread 500g,Bakery,26,7.04,No
+18/03/2025,1001,Dove Shampoo 250ml,Personal Care,33,3.08,Yes
+07/05/2025,1005,Pepsi 1L,Beverage,33,1.79,Yes
+28/05/2025,1002,Fanta 500ml,Beverage,23,6.4,Yes
+21/02/2025,1002,Lays Chips 70g,Snacks,26,2.83,Yes
+13/05/2025,1002,Pepsi 1L,Beverage,28,3.85,Yes
+05/01/2025,1002,Doritos 150g,Snacks,27,7.04,No
+26/06/2025,1001,Sus Water 1.5L,Beverage,32,6.54,Yes
+05/05/2025,1005,Pepsi 1L,Beverage,32,5.85,Yes
+23/02/2025,1003,KitKat 4 Finger,Confectionery,29,5.16,No
+11/02/2025,1001,Colgate Toothpaste 100ml,Personal Care,36,3.62,No
+16/07/2025,1002,Colgate Toothpaste 100ml,Personal Care,23,6.89,No
+17/03/2025,1001,Fanta 500ml,Beverage,21,2.8,No
+02/06/2025,1003,Fanta 500ml,Beverage,26,2.03,No
+01/08/2025,1002,Milka Chocolate 100g,Confectionery,28,7.93,Yes
+02/01/2025,1001,Dove Shampoo 250ml,Personal Care,33,7.94,Yes
+25/06/2025,1003,Sus Water 1.5L,Beverage,24,7.14,No
+30/06/2025,1001,Lays Chips 70g,Snacks,26,7.66,Yes
+25/04/2025,1002,Milka Chocolate 100g,Confectionery,22,6.09,Yes
+25/07/2025,1004,Nescafe Instant 200g,Beverage,37,2.51,Yes
+22/06/2025,1005,Dun Bread 500g,Bakery,22,5.7,Yes
+11/01/2025,1002,Hell Energy Drink 250ml,Beverage,27,3.24,Yes
+14/06/2025,1001,Hell Energy Drink 250ml,Beverage,30,7.39,No
+07/05/2025,1001,Dun Bread 500g,Bakery,45,2.65,Yes
+01/04/2025,1002,Sus Water 1.5L,Beverage,39,6.45,Yes
+02/08/2025,1002,Nescafe Instant 200g,Beverage,27,3.13,Yes
+19/04/2025,1002,Milka Chocolate 100g,Confectionery,24,4.41,No
+18/07/2025,1004,Coca-Cola 1L,Beverage,33,2.92,No
+02/07/2025,1001,Doritos 150g,Snacks,29,3.83,Yes
+13/02/2025,1005,Persil Detergent 1kg,Household,26,7.71,No
+16/04/2025,1005,Dun Bread 500g,Bakery,36,2.67,Yes
+27/03/2025,1002,Doritos 150g,Snacks,28,2.73,No
+07/05/2025,1005,Ariel Pods 20 pack,Household,23,6.43,No
+14/06/2025,1001,Nescafe Instant 200g,Beverage,22,4.54,Yes
+21/03/2025,1002,Hell Energy Drink 250ml,Beverage,32,4.68,No
+25/03/2025,1003,KitKat 4 Finger,Confectionery,38,7.65,Yes
+05/08/2025,1003,Persil Detergent 1kg,Household,31,6.1,No
+09/06/2025,1004,Pepsi 1L,Beverage,33,7.38,No
+21/07/2025,1003,KitKat 4 Finger,Confectionery,36,4.09,No
+14/07/2025,1002,Persil Detergent 1kg,Household,22,2.65,No
+31/07/2025,1002,Sus Water 1.5L,Beverage,23,1.24,Yes
+15/05/2025,1005,Ariel Pods 20 pack,Household,27,1.15,Yes
+20/07/2025,1002,Hell Energy Drink 250ml,Beverage,36,1.28,Yes
+03/05/2025,1004,Milka Chocolate 100g,Confectionery,27,1.35,No
+25/03/2025,1004,Hell Energy Drink 250ml,Beverage,27,3.41,No
+06/04/2025,1005,Fanta 500ml,Beverage,24,4.31,No
+14/01/2025,1003,Coca-Cola 1L,Beverage,31,1.61,Yes
+20/02/2025,1004,Milka Chocolate 100g,Confectionery,30,5.14,No
+18/08/2025,1004,KitKat 4 Finger,Confectionery,31,3.36,Yes
+03/03/2025,1002,Doritos 150g,Snacks,31,5.88,No
+21/07/2025,1004,Doritos 150g,Snacks,30,4.17,No
+21/04/2025,1001,Milka Chocolate 100g,Confectionery,34,1,Yes
+30/08/2025,1003,Dove Shampoo 250ml,Personal Care,36,7.69,No
+27/01/2025,1005,Dove Shampoo 250ml,Personal Care,31,1.92,Yes
+05/04/2025,1004,KitKat 4 Finger,Confectionery,32,1.86,Yes
+23/04/2025,1005,Doritos 150g,Snacks,42,6.99,No
+21/01/2025,1001,Fanta 500ml,Beverage,33,5.99,No
+09/06/2025,1004,Colgate Toothpaste 100ml,Personal Care,24,5.6,Yes
+14/03/2025,1001,Fanta 500ml,Beverage,33,2.75,No
+16/06/2025,1002,Doritos 150g,Snacks,23,3.62,No
+23/02/2025,1004,Sus Water 1.5L,Beverage,26,3.8,Yes
+14/03/2025,1001,Hell Energy Drink 250ml,Beverage,27,7.63,No
+13/02/2025,1002,Coca-Cola 1L,Beverage,45,3.6,No
+30/08/2025,1001,Ariel Pods 20 pack,Household,33,5.39,No
+04/06/2025,1004,Dove Shampoo 250ml,Personal Care,31,6.37,No
+11/06/2025,1003,Dove Shampoo 250ml,Personal Care,30,7.92,Yes
+18/01/2025,1003,Persil Detergent 1kg,Household,31,2.56,No
+09/05/2025,1003,Hell Energy Drink 250ml,Beverage,38,3.74,No
+11/05/2025,1005,Fanta 500ml,Beverage,28,2.13,Yes
+10/05/2025,1003,Persil Detergent 1kg,Household,37,2.82,Yes
+25/02/2025,1002,Dun Bread 500g,Bakery,36,5.2,Yes
+17/08/2025,1004,Dove Shampoo 250ml,Personal Care,26,1.71,Yes
+24/08/2025,1005,KitKat 4 Finger,Confectionery,30,1.74,No
+21/08/2025,1001,Doritos 150g,Snacks,25,3.94,No
+20/07/2025,1002,Ariel Pods 20 pack,Household,36,1.48,Yes
+21/05/2025,1002,Doritos 150g,Snacks,39,2.14,No
+01/03/2025,1002,Fanta 500ml,Beverage,29,7.92,Yes
+13/04/2025,1004,Milka Chocolate 100g,Confectionery,25,3.01,No
+28/08/2025,1004,Pepsi 1L,Beverage,29,6.98,Yes
+16/04/2025,1004,Coca-Cola 1L,Beverage,26,2.33,Yes
+22/08/2025,1001,Pepsi 1L,Beverage,31,7.43,No
+24/06/2025,1001,Dun Bread 500g,Bakery,32,3.44,Yes
+30/04/2025,1005,Colgate Toothpaste 100ml,Personal Care,25,2.81,No
+13/02/2025,1003,Ariel Pods 20 pack,Household,25,6.91,Yes
+05/05/2025,1002,Dun Bread 500g,Bakery,32,7.21,Yes
+26/02/2025,1003,Doritos 150g,Snacks,41,6.8,Yes
+29/01/2025,1004,Milka Chocolate 100g,Confectionery,22,6.81,Yes
+15/05/2025,1005,Persil Detergent 1kg,Household,15,7.2,No
+13/01/2025,1005,KitKat 4 Finger,Confectionery,26,1.57,No
+16/04/2025,1004,Ariel Pods 20 pack,Household,33,2.89,No
+19/08/2025,1004,Fanta 500ml,Beverage,31,7.08,No
+23/05/2025,1001,Persil Detergent 1kg,Household,28,6.06,Yes
+16/03/2025,1005,Fanta 500ml,Beverage,25,7.7,No
+17/05/2025,1003,Dove Shampoo 250ml,Personal Care,32,4.15,Yes
+07/05/2025,1002,Pepsi 1L,Beverage,32,2.83,Yes
+09/02/2025,1003,Dun Bread 500g,Bakery,31,5.53,No
+15/07/2025,1004,Lays Chips 70g,Snacks,43,1.09,No
+22/07/2025,1002,Ariel Pods 20 pack,Household,20,5.31,Yes
+06/05/2025,1002,KitKat 4 Finger,Confectionery,21,7.36,Yes
+27/02/2025,1005,Sus Water 1.5L,Beverage,32,3.2,No
